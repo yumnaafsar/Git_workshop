@@ -1,2 +1,2 @@
 print ("Heloo world")
-print ("hy")
+print ("climax")
